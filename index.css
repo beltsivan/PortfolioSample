@@ -1,0 +1,6 @@
+p{
+    display: flex;
+    background-color: aqua;
+    border-style: double;
+    border-radius: 10px;
+}
